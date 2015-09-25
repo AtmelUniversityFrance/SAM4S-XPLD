@@ -1,2 +1,2 @@
 # SAM4S-XPLD
-University training based on SAM4S Xplained
+University training based on Atmel SAM4S Xplained
